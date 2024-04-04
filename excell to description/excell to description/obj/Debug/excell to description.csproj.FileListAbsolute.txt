@@ -1,0 +1,13 @@
+C:\Users\eren_\source\repos\excell to description\excell to description\bin\Debug\excell to description.exe.config
+C:\Users\eren_\source\repos\excell to description\excell to description\bin\Debug\excell to description.exe
+C:\Users\eren_\source\repos\excell to description\excell to description\bin\Debug\excell to description.pdb
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell to description.csproj.AssemblyReference.cache
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell_to_description.Form1.resources
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell_to_description.Properties.Resources.resources
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell to description.csproj.GenerateResource.cache
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell to description.csproj.CoreCompileInputs.cache
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell to description.exe
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell to description.pdb
+C:\Users\eren_\source\repos\excell to description\excell to description\bin\Debug\itextsharp.dll
+C:\Users\eren_\source\repos\excell to description\excell to description\obj\Debug\excell t.C3DD5BB8.Up2Date
+C:\Users\eren_\source\repos\excell to description\excell to description\bin\Debug\BouncyCastle.Cryptography.dll
